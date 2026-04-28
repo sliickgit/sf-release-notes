@@ -1,35 +1,24 @@
-# Salesforce Summer ’26 Release Notes
+# Salesforce Release Notes
 
-Welcome to the agent-friendly version of the Salesforce Summer ’26 release notes. Each section below links to a dedicated Markdown file with concise, actionable summaries for agents and developers.
+This repository contains agent-friendly Markdown extracts of Salesforce release notes.
 
-## Table of Contents
+## Structure
 
-- [Monthly Release Notes](monthly-release-notes.md)
-- [Release Note Changes](release-note-changes.md)
-- [How and When Do Features Become Available?](how-and-when-do-features-become-available.md)
-- [Salesforce Overall](salesforce-overall.md)
-- [Release Updates](release-updates.md)
-- [Agentforce & Einstein](agentforce/README.md)
-- [Analytics](analytics/README.md)
-- [Automation](automation/README.md)
-- [Commerce](commerce/README.md)
-- [Customization](customization/README.md)
-- [Data 360](data-360/README.md)
-- [Development](development/README.md)
-- [Experience Cloud](experience-cloud/README.md)
-- [Field Service](field-service/README.md)
-- [Hyperforce](hyperforce/README.md)
-- [Industries](industries/README.md)
-- [Marketing](marketing/README.md)
-- [MuleSoft](mulesoft/README.md)
-- [Mobile](mobile/README.md)
-- [Omnistudio](omnistudio/README.md)
-- [Partner Cloud](partner-cloud/README.md)
-- [Revenue Management](revenue-management/README.md)
-- [Sales (Agentforce Sales)](sales/README.md)
-- [Salesforce for Slack Integrations](slack-integrations/README.md)
-- [Security, Identity, and Privacy](security-identity-privacy/README.md)
-- [Service](service/README.md)
-- [Other Salesforce Products and Services](other-products/README.md)
-- [Legal Documentation](legal/README.md)
-- [Previous Release Notes](previous-release-notes.md)
+- Each Salesforce release lives in its own top-level folder, such as `summer-26/`.
+- Each release folder contains concise Markdown summaries organized by product area and topic.
+- New releases should be added as new sibling folders at the repository root.
+
+## Current Release
+
+- [Summer '26](summer-26/README.md)
+
+## Purpose
+
+The goal of this repo is to make Salesforce release notes easier for agents and developers to browse, search, and reuse without parsing the original source documents.
+
+## Conventions
+
+- Keep release content focused, concise, and Markdown-first.
+- Prefer one folder per release.
+- Add a short README in each release folder that points to the release-specific summaries.
+- Use descriptive file names that match the Salesforce product or topic they summarize.
