@@ -2,3 +2,4 @@
 *.pdf
 references/
 CLAUDE.md
+.DS_Store
