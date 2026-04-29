@@ -4,6 +4,10 @@
 
 This section points readers to separate release updates for Salesforce Flow.
 
+## Official Release Note
+
+- [Release Note Changes: Flow](https://help.salesforce.com/s/articleView?id=release-notes.rn_change_log.htm#rn_change_log_flow&language=en_US)
+
 The Flow release updates are the place to watch for behavior changes that affect Flow Builder, scheduled flows, and Flow administration rather than the broader Salesforce release-update catalog.
 
 ## What changed

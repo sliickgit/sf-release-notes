@@ -4,6 +4,10 @@
 
 Integration Intelligence extends MuleSoft telemetry for long-term analytics.
 
+## Official Release Note
+
+- [MuleSoft](https://help.salesforce.com/s/articleView?id=release-notes.rn_mulesoft.htm&language=en_US)
+
 ## What changed
 
 - Metrics, logs, and traces can be centralized in Salesforce Data 360.

@@ -4,6 +4,10 @@
 
 Automotive gets conversational AI, automated workflows, guided service processes, and deeper analytics support.
 
+## Official Release Note
+
+- [Automotive](https://help.salesforce.com/s/articleView?id=release-notes.rn_automotive_cloud.htm)
+
 ## What changed
 
 - Conversational AI and automated workflows help streamline product sales and warranty claims.

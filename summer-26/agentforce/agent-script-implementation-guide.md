@@ -10,6 +10,7 @@ The updated Agentforce Implementation Guide is the hands-on path for building ag
 - It walks through Agent Script for a more deterministic agent experience.
 - It highlights hybrid reasoning, preview and debugging improvements, and the new Agentforce Testing Center.
 - It also includes an updated Observability guide.
+- The practical effect is that builders get a more complete end-to-end guide for building, testing, and observing agents.
 
 ## Setup Notes
 
@@ -19,3 +20,4 @@ The updated Agentforce Implementation Guide is the hands-on path for building ag
 ## Notes for Agents
 
 - This is the best starting point when the goal is to build or validate a customer-facing agent.
+- Use it as the implementation companion to the monthly Agentforce feature notes.

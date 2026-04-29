@@ -4,6 +4,10 @@
 
 Salesforce supports additional canonical time zones in Summer '26.
 
+## Official Release Note
+
+- [Canonical Time Zones](https://help.salesforce.com/s/articleView?id=release-notes.rn_globalization_timezones.htm&language=en_US)
+
 This helps orgs stay aligned with standardized IANA time zone names instead of relying on older or org-specific representations.
 
 ## What changed

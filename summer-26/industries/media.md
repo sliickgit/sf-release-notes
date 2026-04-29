@@ -4,6 +4,10 @@
 
 Media updates focus on campaign execution, AI-assisted sales productivity, and data management.
 
+## Official Release Note
+
+- [Media](https://help.salesforce.com/s/articleView?id=release-notes.rn_media_cloud.htm)
+
 ## What changed
 
 - Television, radio, and digital placements can be managed in a single interface.

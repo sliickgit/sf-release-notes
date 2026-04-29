@@ -11,7 +11,10 @@ Experience Cloud adds email verification, password-flow restrictions, and malwar
 - Private LWR pages stay unavailable until password setup or reset is complete.
 - Malware scanning for Salesforce Files is generally available.
 - The Manage Malicious Files permission can be assigned to standard users.
+- The net effect is tighter trust gating for site email, file handling, and private-page access.
 
 ## Notes for Agents
 
 - These are the security and trust controls most likely to matter in a site rollout.
+- Use this page when site behavior changes are really security-policy changes in disguise.
+- This is the page to read when an Experience Cloud change alters trust, file safety, or password flow behavior.

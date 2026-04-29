@@ -4,6 +4,8 @@ This folder breaks the Service section into smaller notes so the most important 
 
 ## Service Areas
 
+- [Service](https://help.salesforce.com/s/articleView?id=release-notes.rn_service.htm&language=en_US)
+
 - [Agentforce Contact Center](agentforce-contact-center.md)
 - [Agentforce IT Service](agentforce-it-service.md)
 - [Case Management](case-management.md)

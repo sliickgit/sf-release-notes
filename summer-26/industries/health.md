@@ -4,6 +4,10 @@
 
 Health gets faster setup, AI-assisted decision support, and improved self-service and pricing transparency.
 
+## Official Release Note
+
+- [Health](https://help.salesforce.com/s/articleView?id=release-notes.rn_health.htm)
+
 ## What changed
 
 - Agentforce Health setup can be expedited with Salesforce Go.

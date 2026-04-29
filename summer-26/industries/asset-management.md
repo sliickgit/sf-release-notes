@@ -4,6 +4,10 @@
 
 Use Salesforce Go to manage, configure, and expand Asset Service Lifecycle Management features from a single location in Setup.
 
+## Official Release Note
+
+- [Asset Management](https://help.salesforce.com/s/articleView?id=release-notes.rn_asset_management.htm)
+
 ## What changed
 
 - Discover and configure Asset Service Lifecycle Management features in one place.

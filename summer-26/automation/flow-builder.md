@@ -4,6 +4,10 @@
 
 Flow Builder receives the largest set of automation updates in Summer '26.
 
+## Official Release Note
+
+- [Automation](https://help.salesforce.com/s/articleView?id=release-notes.rn_automate_monthly.htm&language=en_US)
+
 ## What changed
 
 - Create and configure Agentforce agents directly from Flow Builder.

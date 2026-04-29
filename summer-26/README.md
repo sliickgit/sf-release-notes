@@ -2,8 +2,11 @@
 
 Welcome to the agent-friendly version of the Salesforce Summer ’26 release notes. Each section below links to a dedicated Markdown file with concise, actionable summaries for agents and developers.
 
+Official Salesforce source: [Summer ’26 Release Notes](https://help.salesforce.com/s/articleView?id=release-notes.salesforce_release_notes.htm&release=262&type=5)
+
 ## Table of Contents
 
+- [Summer '26 Top 10 Features](top-10-features.md)
 - [Monthly Release Notes](monthly-release-notes.md)
 - [Release Note Changes](release-note-changes.md)
 - [How and When Do Features Become Available?](how-and-when-do-features-become-available.md)

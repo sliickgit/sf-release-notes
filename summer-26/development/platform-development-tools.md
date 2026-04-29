@@ -4,6 +4,15 @@
 
 Platform development tools center on Salesforce DX and the broader custom app development experience.
 
+## Official Release Note
+
+- [Platform Development Tools](https://help.salesforce.com/s/articleView?id=release-notes.rn_tools.htm&language=en_US)
+- [Agentforce DX](https://help.salesforce.com/s/articleView?id=release-notes.rn_tools_agentforce_dx.htm&language=en_US)
+- [Salesforce DX MCP Server](https://help.salesforce.com/s/articleView?id=release-notes.rn_tools_dx_mcp.htm&language=en_US)
+- [Salesforce CLI](https://help.salesforce.com/s/articleView?id=release-notes.rn_tools_cli.htm&language=en_US)
+- [VS Code Extensions](https://help.salesforce.com/s/articleView?id=release-notes.rn_tools_vscode_extensions.htm&language=en_US)
+- [Web Console](https://help.salesforce.com/s/articleView?id=release-notes.rn_web_console.htm&language=en_US)
+
 ## What changed
 
 - Agentforce DX lets you create, preview, and test agents in a Salesforce DX project.

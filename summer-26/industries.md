@@ -4,6 +4,10 @@
 
 Industries covers the Salesforce industry-cloud family. The Summer '26 release notes point readers to product-specific updates across the various vertical clouds.
 
+## Official Release Note
+
+- [Industries](https://help.salesforce.com/s/articleView?id=release-notes.rn_industries.htm&language=en_US)
+
 ## What the section is for
 
 - Track industry-cloud features and enhancements in one place.

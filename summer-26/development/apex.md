@@ -4,6 +4,18 @@
 
 Apex gets a major security and runtime behavior update in Summer '26.
 
+## Official Release Note
+
+- [Apex](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex.htm&language=en_US)
+- [Apex Default User Mode](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex_default_user_mode.htm&language=en_US)
+- [Apex Default Enforce Sharing](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex_default_enforce_sharing.htm&language=en_US)
+- [Removed: WITH SECURITY_ENFORCED](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex_removed_withSecurityEnforced.htm&language=en_US)
+- [Apex Triggers Run in System Mode](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex_triggers_system_mode.htm&language=en_US)
+- [Integration Apex Tests](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex_integrations_testing.htm&language=en_US)
+- [Elastic Async Limit](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex_elastic_async_limit.htm&language=en_US)
+- [Multiline Strings](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex_multiline_string.htm&language=en_US)
+- [Apex Web Console](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex_webconsole.htm&language=en_US)
+
 ## What changed
 
 - Database operations now run in user mode by default instead of system mode.

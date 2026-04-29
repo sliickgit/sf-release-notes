@@ -4,6 +4,8 @@
 
 Agentforce platform features are released monthly rather than only on the seasonal cadence.
 
+This page is the month-by-month record for the Agentforce items that Salesforce chose to surface outside the broader seasonal summaries.
+
 ## June '26
 
 ### Agentforce Agents: Increase Trust with Citations in Bring Your Own Channel
@@ -17,6 +19,8 @@ Key details:
 - Intended for partners who build messaging integrations.
 - Available in June 2026.
 
+This is the channel-citation story: it lets outbound responses in custom channels carry source references so end users can verify the answer.
+
 ## April '26
 
 ### Agentforce Documentation: Build an Agent Script-Powered Agent End to End with the Updated Implementation Guide
@@ -29,3 +33,5 @@ Key details:
 - Includes hands-on guidance for creating a customer-facing agent.
 - Covers testing, debugging, and observability improvements.
 - Available starting April 20, 2026.
+
+This is the implementation-guide story: it gives builders a more complete path for creating, testing, and observing agents end to end.

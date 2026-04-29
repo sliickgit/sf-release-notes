@@ -4,6 +4,12 @@
 
 The detailed Development notes now live in the [development](development/README.md) folder.
 
+Summer '26 Development centers on Apex security/runtime changes, new API capabilities, improved developer tooling, packaging timing, and the item-level inventory of new and changed developer artifacts.
+
+## Official Release Note
+
+- [Development](https://help.salesforce.com/s/articleView?id=release-notes.rn_development.htm&language=en_US)
+
 ## Detailed Notes
 
 - [Development index](development/README.md)

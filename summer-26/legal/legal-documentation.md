@@ -4,6 +4,10 @@
 
 Salesforce made seasonal updates to its legal documents for Summer '26.
 
+## Official Release Note
+
+- [Legal Documentation](https://help.salesforce.com/s/articleView?id=release-notes.rn_compliance_docs.htm&language=en_US)
+
 The release notes treat this as a reference area rather than a product feature area.
 
 ## What changed

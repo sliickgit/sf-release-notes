@@ -4,6 +4,13 @@
 
 Lightning Components get the largest share of Development updates in Summer '26.
 
+## Official Release Note
+
+- [Lightning Components](https://help.salesforce.com/s/articleView?id=release-notes.rn_lc.htm&language=en_US)
+- [Lightning Web Components Versioning](https://help.salesforce.com/s/articleView?id=release-notes.rn_lwc_versioning.htm&language=en_US)
+- [Single Component Live Preview](https://help.salesforce.com/s/articleView?id=release-notes.rn_lwc_single_component.htm&language=en_US)
+- [Lightning Web Security](https://help.salesforce.com/s/articleView?id=release-notes.rn_lc_lws_distortion_changes.htm&language=en_US)
+
 ## What changed
 
 - Local Dev is now called Live Preview.

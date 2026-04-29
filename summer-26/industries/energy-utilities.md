@@ -4,6 +4,10 @@
 
 Energy & Utilities gets personalized self-service, sync notifications, grid request tracking, and stronger field-service timesheet handling.
 
+## Official Release Note
+
+- [Energy & Utilities](https://help.salesforce.com/s/articleView?id=release-notes.rn_energy_and_utilities_cloud.htm)
+
 ## What changed
 
 - Guest users and existing customers can compare energy plans and self-enroll.

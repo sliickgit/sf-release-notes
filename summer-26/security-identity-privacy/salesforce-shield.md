@@ -4,6 +4,10 @@
 
 Shield gets better scanning, policy management, and transaction-security support.
 
+## Official Release Note
+
+- [Security, Identity, and Privacy](https://help.salesforce.com/s/articleView?id=release-notes.rn_security.htm&language=en_US)
+
 ## What changed
 
 - Data Detect can scan more data, including encrypted data.

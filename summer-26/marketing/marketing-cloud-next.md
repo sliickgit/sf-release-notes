@@ -4,6 +4,10 @@
 
 Marketing Cloud Next is also referred to as Agentforce Marketing.
 
+## Official Release Note
+
+- [Marketing](https://help.salesforce.com/s/articleView?id=release-notes.rn_marketing_parent.htm&language=en_US)
+
 This is the marketing section with the heaviest Agentforce emphasis.
 
 ## What changed
@@ -13,8 +17,10 @@ This is the marketing section with the heaviest Agentforce emphasis.
 - Content and personalization tools are improved.
 - Agent templates are available in Agentforce Builder to help identify buying groups and create and execute campaigns.
 - The release notes position the feature set around campaign execution, personalization, and agent-assisted marketing workflows.
+- The practical result is a more agent-assisted campaign stack with richer channel and content management.
 
 ## Notes for Agents
 
 - This is the Agentforce-heavy marketing subsection.
 - Use this page when you need the marketing-cloud-next explanation before diving into the more specific marketing subsections.
+- If a marketing change looks like it is about orchestration, personalization, or campaign setup, this is the page to read first.

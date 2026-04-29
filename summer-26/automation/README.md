@@ -4,6 +4,8 @@ This folder breaks the Automation section into focused notes for Flow, orchestra
 
 ## Automation Notes
 
+- [Automation](https://help.salesforce.com/s/articleView?id=release-notes.rn_automate_monthly.htm&language=en_US)
+
 - [Flow Builder](flow-builder.md)
 - [Flow Approval Processes](flow-approval-processes.md)
 - [Flow Orchestration](flow-orchestration.md)

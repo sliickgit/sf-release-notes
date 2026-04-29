@@ -4,6 +4,10 @@
 
 Partners can send brand-compliant marketing content from Experience Cloud sites.
 
+## Official Release Note
+
+- [Partner Cloud](https://help.salesforce.com/s/articleView?id=release-notes.rn_partner_cloud.htm&language=en_US)
+
 This is the distributed-marketing story for Partner Cloud.
 
 ## What changed

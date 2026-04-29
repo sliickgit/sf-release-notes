@@ -4,6 +4,10 @@
 
 Additional security cleanup changes were called out in the release notes.
 
+## Official Release Note
+
+- [Security, Identity, and Privacy](https://help.salesforce.com/s/articleView?id=release-notes.rn_security.htm&language=en_US)
+
 These are the smaller but still operationally important security adjustments that do not fit the larger security subsections.
 
 ## What changed

@@ -4,6 +4,10 @@
 
 Bring Your Own Channel messages can now include source references so customers can verify AI-generated responses.
 
+## Official Release Note
+
+- [Bring Your Own Channel Citations](https://help.salesforce.com/s/articleView?id=release-notes.rn_agentforce_service_agent_byoc_citations.htm&language=en_US)
+
 ## What changed
 
 - Agentforce Service Agent outbound messages can include source links and character offsets.

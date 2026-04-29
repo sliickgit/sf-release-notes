@@ -4,6 +4,12 @@
 
 Salesforce Payments focuses on checkout efficiency and saved-payment access.
 
+## Official Release Note
+
+- [Salesforce Payments](https://help.salesforce.com/s/articleView?id=release-notes.rn_payments.htm&language=en_US)
+- [Hide Shipping Fields](https://help.salesforce.com/s/articleView?id=release-notes.rn_comm_262_hide_shipping.htm&language=en_US)
+- [OTP Payment](https://help.salesforce.com/s/articleView?id=release-notes.rn_comm_262_otppayment.htm&language=en_US)
+
 The main theme is reducing checkout friction for services and digital goods.
 
 ## What changed

@@ -4,6 +4,8 @@ This folder breaks the Industries section into cloud-specific notes for easier n
 
 ## Cloud Notes
 
+- [Industries](https://help.salesforce.com/s/articleView?id=release-notes.rn_industries.htm&language=en_US)
+
 - [Asset Management](asset-management.md)
 - [Automotive](automotive.md)
 - [Consumer Goods](consumer-goods.md)

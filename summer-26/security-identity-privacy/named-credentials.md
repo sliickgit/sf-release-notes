@@ -4,6 +4,10 @@
 
 Named credentials now use the org's My Domain name when creating an external auth identity provider.
 
+## Official Release Note
+
+- [Named Credentials](https://help.salesforce.com/s/articleView?id=release-notes.rn_sf_connect_xorg_named_credentials.htm&language=en_US)
+
 That makes the callback and auth setup more consistent with the org's branded domain.
 
 ## What changed

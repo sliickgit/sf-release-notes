@@ -4,6 +4,10 @@
 
 Consumer Goods focuses on mobile collaboration, planning, analytics, and sync troubleshooting.
 
+## Official Release Note
+
+- [Consumer Goods](https://help.salesforce.com/s/articleView?id=release-notes.rn_consumer_goods_cloud.htm)
+
 ## What changed
 
 - Agents can collaborate during a customer visit in the Consumer Goods Cloud mobile app.
